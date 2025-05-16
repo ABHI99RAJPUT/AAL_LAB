@@ -1,0 +1,60 @@
+#OUTPUT LAB 1A
+Original array: 64 25 12 22 11 
+Sorted array: 11 12 22 25 64 
+Time taken: 0.000002 seconds
+
+#OUTPUT LAB 1B
+Original array: 64 25 12 22 11 
+Sorted array: 11 12 22 25 64 
+Time taken: 0.000002 seconds
+
+#OUTPUT LAB 2
+Enter the text: XXYYAYQUEAH
+Enter the pattern to search: YAY
+Pattern found at index 3
+
+#OUTPUT LAB 3A
+Original array: 38 27 43 3 9 82 10 
+Sorted array: 3 9 10 27 38 43 82 
+
+#OUTPUT LAB 3B
+Original array: 10 7 8 9 1 5 
+Sorted array: 1 5 7 8 9 10 
+
+#OUTPUT LAB 4A
+25
+
+#OUTPUT LAB 4B
+Edge 	Weight
+0 - 1 	2 
+1 - 2 	3 
+0 - 3 	6 
+1 - 4 	5 
+
+
+#OUTPUT LAB 5
+5 6 11 12 13 
+
+
+
+#OUTPUT LAB 6
+5 6 11 12 13 
+
+#OUTPUT LAB 7
+Sorted array is 
+2 3 4 5 8 9 10 
+
+#OUTPUT LAB 8
+0 3 7 5 
+2 0 6 4 
+3 1 0 5 
+5 3 2 0 
+
+
+#OUTPUT LAB 9
+Solution: 
+2 4 1 3 
+
+
+#OUTPUT LAB 10
+Minimum tour cost: 80
